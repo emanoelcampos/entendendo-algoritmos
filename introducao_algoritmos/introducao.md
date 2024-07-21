@@ -33,3 +33,8 @@
   - não fornece o tempo em segundos
   - permite que você compare o número de operações
   - informa o quão rapidamente um algoritmo cresce
+
+### A notaçao Big O estabelece o tempo de execução para a pior hipótese
+
+- A notação Big O leva em conta a pior das hióteses
+- É importante analisar o tempo de execução para o "caso médio"
