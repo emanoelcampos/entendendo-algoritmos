@@ -1,5 +1,9 @@
 # Ordenação por seleção
 
+- O(n <sup>2</sup>)
+- Lento
+- Quicksort é um algoritmo de ordenação mais rápido
+
 ## Arrays e listas encadeadas
 
 |            | arrays | listas |
